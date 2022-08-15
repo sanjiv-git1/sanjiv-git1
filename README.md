@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###🔭 I’m currently working in Amazon as a DevOps Engineer 
 :office:
-###🌱 I’m currently learning JavaScript 
+###🌱 I’m currently learning Java
 
 <!--
 **sanjiv-git1/sanjiv-git1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
